@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+-  I’m currently pursuing a Ph.D in Physics.
 <!--
 **D-Panics/D-Panics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

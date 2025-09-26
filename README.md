@@ -1,5 +1,9 @@
 ## Hi there 👋
--  I’m a Physics Ph.D.
+-  I am an explorative researcher and problem-solver with a passion for discovery and a relentless curiosity. I thrive on uncovering new knowledge and embracing new challenges.
+
+- With a strong background in quantitative research, I excel at analyzing complex data to draw insightful and sometimes surprising conclusions. Over the past eight years, I have worked on numerous projects with collaborators and delivered many public presentations.
+
+- Applying my skills to solve real-world problems excites me. I look forward to using my technical expertise to help businesses grow and succeed.
 <!--
 **D-Panics/D-Panics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
